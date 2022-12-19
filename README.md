@@ -53,8 +53,6 @@
 
 3. 安装 Yarn : npm install -g yarn
 
-4. 安装 React Native 脚手架 : npm install -g react-native-cli
-
 5. 验证 React Native 开发环境是否配置成功
 
     node --version
@@ -65,7 +63,7 @@
 
 - 创建项目
 
-    react-native init ***your_project_name***
+    npx react-native init ***your_project_name***
 
 ## 常用第三方库
 
